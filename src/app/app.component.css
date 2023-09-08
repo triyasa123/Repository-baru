@@ -1,0 +1,9 @@
+.navbar
+{
+    background-color: whitesmoke;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    text-decoration: underline;
+    
+}
